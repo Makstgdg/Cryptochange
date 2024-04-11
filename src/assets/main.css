@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+body{
+    background: rgb(46,0,87);
+    background: linear-gradient(166deg, rgba(46,0,87,1) 11%, rgba(0,212,255,1) 74%, rgba(0,61,255,1) 95%);
+    min-height: 100dvh;
+    text-align: center;
+}
